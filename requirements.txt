@@ -1,0 +1,7 @@
+playwright
+streamlit
+pandas
+numpy
+plotly
+altair
+sqlalchemy
